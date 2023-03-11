@@ -2,9 +2,10 @@
 <resources>
     <color name="purple">#6FBB86F0</color>
     <color name="darkPurple">#AFBB86FA</color>
-    <color name="lightPurple">#F1AB8fFf</color>
+    <color name="lightGrey">#AFAFDA</color>
     <color name="teal_200">#AFBB86FA</color>
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="lightPurple">#9797CE</color>
 </resources>

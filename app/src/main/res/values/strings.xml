@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">developer Calculator</string>
+    <string name="welcomeText">welcome</string>
+    <string name="enter_your_decimal_number">enter decimal number</string>
+    <string name="enter_binary_number">enter binary number</string>
+    <string name="enter_hex_number">enter hex number</string>
+    <string name="enter_octal_number">enter octal number</string>
+    <string name="submit_button">submit</string>
+    <string name="clear_all_button">clear all</string>
 </resources>
