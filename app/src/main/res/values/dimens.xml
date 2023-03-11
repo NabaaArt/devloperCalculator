@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="normalText">21sp</dimen>
+    <dimen name="normalMargin">16dp</dimen>
+    <dimen name="smallMargin">8dp</dimen>
+    <dimen name="normalPadding">16dp</dimen>
+    <dimen name="buttonText">19sp</dimen>
+
+</resources>
